@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.alertacidadao.app.fragment.HomeFragment"
+        android:label="Início" />
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.alertacidadao.app.fragment.MapFragment"
+        android:label="Mapa" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.alertacidadao.app.fragment.ProfileFragment"
+        android:label="Perfil" />
+
+    <activity
+        android:id="@+id/addReportActivity"
+        android:name="com.alertacidadao.app.AddReportActivity"
+        android:label="Novo Relato" />
+
+    <activity
+        android:id="@+id/reportDetailActivity"
+        android:name="com.alertacidadao.app.ReportDetailActivity"
+        android:label="Detalhes do Relato" />
+
+</navigation>

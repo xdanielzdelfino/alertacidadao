@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alerta Cidadão</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_report">New Report</string>
+
+    <string name="auth_login_title">Alerta Cidadão</string>
+    <string name="auth_login_subtitle">Faça login para continuar</string>
+    <string name="auth_email_label">Email</string>
+    <string name="auth_email_hint">E-mail</string>
+    <string name="auth_password_label">Senha</string>
+    <string name="auth_password_hint">Senha</string>
+    <string name="auth_forgot_password">Esqueci minha senha</string>
+    <string name="auth_login_button">Entrar</string>
+    <string name="auth_or_separator">ou</string>
+    <string name="auth_no_account">Não tem uma conta?</string>
+    <string name="auth_create_account">Criar conta</string>
+
+    <string name="auth_back">Voltar</string>
+    <string name="auth_create_title">Criar Conta</string>
+    <string name="auth_create_subtitle">Junte-se à comunidade</string>
+    <string name="auth_full_name_label">Nome completo *</string>
+    <string name="auth_full_name_hint">Nome completo</string>
+    <string name="auth_email_required_label">Email *</string>
+    <string name="auth_phone_label">Telefone</string>
+    <string name="auth_phone_hint">DDD + Número</string>
+    <string name="auth_neighborhood_label">Bairro</string>
+    <string name="auth_neighborhood_hint">Seu bairro</string>
+    <string name="auth_password_required_label">Senha *</string>
+    <string name="auth_password_min_hint">Mínimo 6 caracteres</string>
+    <string name="auth_confirm_password_label">Confirmar senha *</string>
+    <string name="auth_confirm_password_hint">Digite a senha novamente</string>
+    <string name="auth_terms_prefix">Aceito os </string>
+    <string name="auth_terms_link">termos e condições</string>
+    <string name="auth_terms_full">Aceito os termos e condições</string>
+    <string name="auth_already_have_account">Já tem uma conta?</string>
+    <string name="auth_login_link">Fazer login</string>
+
+    <string name="auth_recover_title">Recuperar senha</string>
+    <string name="auth_new_password_label">Nova senha</string>
+    <string name="auth_new_password_hint">Nova senha</string>
+    <string name="auth_update_password">Atualizar senha</string>
+    <string name="auth_remembered_password">Lembrou sua senha?</string>
+</resources>

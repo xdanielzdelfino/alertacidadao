@@ -1,0 +1,121 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.jar
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+*.pem
+secrets.properties
+keystore.properties
+signing.properties
+credentials.json
+firebase-credentials.json
+
+
+# Build output
+/build
+/captures
+.cxx
+*.so
+/bin
+
+# Gradle files
+.gradle
+/gradle
+
+# IDE
+*.iml
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+.vscode/
+*.suo
+*.sln
+*.csproj
+.DS_Store
+
+# Local configuration file
+local.properties
+/local.properties
+gradle.properties
+
+# Sensitive data
+/app/keystore/
+*.keystore
+*.jks
+debug.keystore
+release.keystore
+
+# External native build
+.externalNativeBuild
+.ndkPath
+/ndkpath.txt
+
+# Output of the go-to-line plugin (integrated into PhpStorm, WebStorm and other JetBrains IDEs)
+*.GoMyCode
+
+# Android Studio specific
+.idea/
+*.iml
+.gradle/
+/builds/
+/.gradle/
+/.idea/
+*.jks
+*.p8
+.externalNativeBuild
+.cxx/
+
+# Temporary files
+*.swp
+*.swo
+*~
+.#*
+\#*#
+.DS_Store
+
+# Personal environment variables
+secrets.properties
+gradle.properties
+local.properties
+
+# Test results
+test-results/
+*.traceview
+*.atrace
+
+# ProGuard
+/proguard-project.txt
+proguard/
+!app/proguard-rules.pro
+
+# Lint results
+lint-results*
+lint-results/
+
+# Emulator screenshots
+screenshots/
+
+# Generated files from APT (not always desired)
+/app/src/main/java/com/example/app/di/AppModule.java
+
+# OS files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Git-related
+.git/
+.gitmodules
+
+.gradle.zip

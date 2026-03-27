@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="accent">#F57C00</color>
+    <color name="accent_light">#FFF3E0</color>
+
+    <color name="background">#F5F7FA</color>
+    <color name="auth_background">#E0E0E0</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="map_surface">#EEEEEE</color>
+    <color name="divider">#F0F0F0</color>
+
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#4B5765</color>
+    <color name="text_hint">#667382</color>
+
+    <!-- Status colors -->
+    <color name="status_open">#D32F2F</color>
+    <color name="status_analysis">#F57C00</color>
+    <color name="status_resolved">#2E7D32</color>
+
+    <!-- Status backgrounds for LIGHT MODE -->
+    <color name="status_open_bg">#FFF5F5</color>
+    <color name="status_analysis_bg">#FFFAF0</color>
+    <color name="status_resolved_bg">#F1FFF2</color>
+
+    <!-- Header and UI components -->
+    <color name="avatar_bg_light">#2D6FA5</color>
+    <color name="avatar_border_light">#7FBADB</color>
+    <color name="text_header_light">#FFFFFF</color>
+    <color name="text_legend">#2F3A4A</color>
+
+    <!-- Figma Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="figma_bg_white">#F8F9FA</color>
+    <color name="figma_primary">#1976D2</color>
+    <color name="figma_text_secondary">#757575</color>
+</resources>

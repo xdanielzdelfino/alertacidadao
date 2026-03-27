@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    file_paths.xml — Necessário para o FileProvider compartilhar fotos da câmera.
+    RF01: Permite que o app salve fotos no diretório privado do app.
+-->
+<paths>
+    <external-files-path
+        name="my_images"
+        path="Pictures/" />
+</paths>
